@@ -1,2 +1,2 @@
-# HDFusionNet
-Source Code for paper "HDFusionNet: A Hybrid Deep Network for Infrared and Visible Image Fusion"
+# ESTLFusion
+Source Code for paper "Efficient Infrared and Visible Image Fusion via Parallel Scene and Texture Learning".
