@@ -1,2 +1,2 @@
 # PSTLFusion
-Source Code for paper "Efficient Infrared and Visible Image Fusion via Parallel Scene and Texture Learning".
+Source Code for paper "Infrared and Visible Image Fusion via Parallel Scene and Texture Learning".
